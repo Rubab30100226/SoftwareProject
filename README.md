@@ -1,5 +1,5 @@
 # SoftwareProject
-Bioinformatics Software Development Project BioLite
+BioLite
 BioLite Studio A Simple Python-Based GUI for DNA Sequence Analysis and Visualization
 
 BioLite Studio is a lightweight, user-friendly desktop tool developed in Python using Tkinter. It enables students, educators, and researchers in bioinformatics to perform essential DNA sequence analysis through a graphical interface — no coding required.
